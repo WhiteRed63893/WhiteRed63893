@@ -6,66 +6,42 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have always been interested in programming
 
-## **Future Software Developer**
----
-### 🤖 Languages and Technologies:
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<br/>
+###
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-<br/>
-<br/>
+###
 
-### 📊 statistics
-<br/> 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=WhiteRed63893
-&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<h1 align="center">hey there 👋</h1>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airon32&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-<br/>
-<br/>
-<br/>
-<br/> 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> 
-<br/>
-<br/>
+###
 
-## **My School Projects:**
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-<br/>
+###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=simple-dictionary&theme=midnight-purple)](https://github.com/Airon32/simple-dictionary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=dia-das-maes&theme=midnight-purple)](https://github.com/Airon32/dia-das-maes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airon32&repo=complex-calculator&theme=midnight-purple)](https://github.com/Airon32/complex-calculator)
+<p align="left">I'm from guilherme<br><br>- 🔭 I’m working as attendant<br>- 📚 I'm currently learning python<br>- ⚡ In my free time I I do things that please me</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
